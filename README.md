@@ -7,3 +7,4 @@ Colocar su nombre y apellido respetando la sintáxis
 - Jose Sanchez
 - milagros ocerin
 - ruth leaño
+- Roman Pais
