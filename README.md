@@ -9,3 +9,4 @@ Colocar su nombre y apellido respetando la sintáxis
 - ruth leaño
 - Roman Pais
 - Francisco Zoffranieri
+- Tomas Garay
